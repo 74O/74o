@@ -30,6 +30,7 @@ I also like the physical world!
 Currently, I am:
 - 🖥️ Figuring how to self host my projects.🧠
 
+<!--
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
@@ -59,9 +60,7 @@ Currently, I am:
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png)
 ![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png)
-<!--
-<div align="center">
-
+-->
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
@@ -119,9 +118,6 @@ Currently, I am:
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="MQTT" title="MQTT"/></code>
-
-</div>
--->
 <!--
 **74O/74o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
