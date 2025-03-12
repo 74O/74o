@@ -12,6 +12,7 @@ I use this account for my projects and experiments.
 I don't usually have many public repo's as I feel my code mine and very private (also i'm afraid of other's oppinions). However, i do support and am very thankful of Open Source, which I widely use in all my projects. 
 
 ### My skills are:
+<!--https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-operating-system-->
 
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png)
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
@@ -43,7 +44,8 @@ I don't usually have many public repo's as I feel my code mine and very private 
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png)
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png)
 
-Currently, I am:
-- 🖥️ Figuring how to self host my projects.
+### Currently, I am:
+- 🖥️ Migrating to the terminal!
+- 🏚️ Figuring how to self host my projects.
 - 🧠 Always developing new skills.
 
