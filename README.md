@@ -30,6 +30,35 @@ I also like the physical world!
 Currently, I am:
 - 🖥️ Figuring how to self host my projects.🧠
 
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png)
+![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png)
 <!--
 <div align="center">
 
