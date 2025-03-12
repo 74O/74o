@@ -30,7 +30,7 @@ I also like the physical world!
 Currently, I am:
 - 🖥️ Figuring how to self host my projects.🧠
 
-
+<!--
 <div align="center">
 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
@@ -92,7 +92,7 @@ Currently, I am:
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="MQTT" title="MQTT"/></code>
 
 </div>
-
+-->
 <!--
 **74O/74o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
