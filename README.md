@@ -10,11 +10,6 @@ This is my 127.0.0.1, my playground.
 I use this account for my projects and experiments.
 I don't usually have many public repo's as I feel my code mine and very private (also i'm afraid of other's oppinions). However, i do support and am very thankful of Open Source, which I widely use in all my projects. 
 
-Currently, I am:
-- 🖥️ Figuring how to self host my projects.
-- 🧠 
-- 🎓 Studying python 🐍
-
 My skills are:
 - Linux (+ bash) (Arch + Debian)
 - Vim (neovim + learning Lua)
@@ -31,6 +26,11 @@ I also like the physical world!
 - 3D printing
 - Arduino
 - ESP32
+
+Currently, I am:
+- 🖥️ Figuring how to self host my projects.
+- 🧠 
+- 🎓 Studying python 🐍
 
 <!--
 **74O/74o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
