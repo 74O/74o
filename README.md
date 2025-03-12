@@ -49,3 +49,4 @@ I don't usually have many public repo's as I feel my code mine and very private 
 - 🏚️ Figuring how to self host my projects.
 - 🧠 Always developing new skills.
 
+[<img src="https://storage.ko-fi.com/cdn/generated/zfskfgqnf/2025-03-12_rest-e8a83fccd956980b7ac841872e1db990-wtdksf6w.jpg" width="200" align="center">](https://ko-fi.com/ratcomputers)
