@@ -11,25 +11,6 @@ I use this account for my projects and experiments.
 I don't usually have many public repo's as I feel my code mine and very private (also i'm afraid of other's oppinions). However, i do support and am very thankful of Open Source, which I widely use in all my projects. 
 
 My skills are:
-- Linux (+ bash) (Arch + Debian)
-- Vim (neovim + learning Lua)
-- Apache
-- Mysql
-- PHP
-- JavaScript
-- SSH
-- VPN
-- Networking
-- Virtualization
-
-I also like the physical world!
-- 3D printing
-- Arduino
-- ESP32
-
-Currently, I am:
-- 🖥️ Figuring how to self host my projects.🧠
-
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png)
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
@@ -60,17 +41,7 @@ Currently, I am:
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png)
 [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" width="50">](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png)
 
-<!--
-**74O/74o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am:
+- 🖥️ Figuring how to self host my projects.
+- 🧠 Always developing new skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
